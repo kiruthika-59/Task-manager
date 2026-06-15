@@ -240,22 +240,31 @@ Results update dynamically while typing.
 # Application Screenshots
 
 ## Dashboard
+<img width="1862" height="999" alt="Dashboard" src="https://github.com/user-attachments/assets/78397470-136e-457e-9bf8-b6848d7fc8c6" />
 
-![Dashboard](./screenshots/task-dashboard.png)
+---
 
+## Search | Recent tasks
+
+<img width="1849" height="965" alt="Recent-added" src="https://github.com/user-attachments/assets/38cc82e5-3941-4902-bf6f-f7d436a421cc" />
 
 ---
 
 ## Task List
-
-![Task List](./screenshots/task-list.png)
-
+<img width="1874" height="987" alt="List-View" src="https://github.com/user-attachments/assets/74eba119-6652-4dbc-a00f-0720d5db4bb1" />
 
 ---
 
-## Mobile Responsive View
+## History View
 
-![Mobile](./screenshots/mobile-view.png)
+<img width="1823" height="999" alt="History" src="https://github.com/user-attachments/assets/187cbe7d-b741-4c4e-964e-50ea5d19abb1" />
+
+---
+
+## Task Edit
+
+<img width="1849" height="966" alt="Task-Edit" src="https://github.com/user-attachments/assets/dc20bc30-51eb-425a-9fef-84aa089fa260" />
+
 
 ---
 
